@@ -1,6 +1,6 @@
 ## 👋 Hi there! I'm Jesse :)
 
-💼 I'm a data science consultant at Deloitte. Previously, I studied for a master's degree in physics at Oxford University, graduating with first class honours in 2023.
+💼 I'm a data science consultant at Deloitte UK. Previously, I studied for a master's degree in physics at Oxford University, graduating with first class honours in 2023.
 
 👨‍💻 Over the last couple of years, I've been developing route optimisation software for a large telco client. My work mainly consists of writing code in Python and SQL to analyse large amounts of geospatial and graph data, applying a shortest-path algorithm to determine optimal fibre routes. In particular, I've learned a lot about network (graph) analysis, geospatial analytics, and clustering.
 
