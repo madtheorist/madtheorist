@@ -2,9 +2,9 @@
 
 💼 I'm a data science consultant at Deloitte. Previously, I studied for a master's degree in physics at Oxford University, graduating with first class honours in 2023.
 
-👨‍💻 Over the last couple of years, I've been developing route optimisation software for a large telco client. My work mainly consists of writing code in Python and SQL to analyse large amounts of geospatial and graph data, applying a shortest-path algorithm to determine optimal fibre routes. This has given me experience in network analysis, geospatial analytics, and clustering.
+👨‍💻 Over the last couple of years, I've been developing route optimisation software for a large telco client. My work mainly consists of writing code in Python and SQL to analyse large amounts of geospatial and graph data, applying a shortest-path algorithm to determine optimal fibre routes. In particular, I've learned a lot about network (graph) analysis, geospatial analytics, and clustering.
 
-📊 I've enjoyed the challenge of navigating a large object-oriented codebase and have gained exposure to cloud computing (AWS), CI/CD (Git, Docker, Jenkins, Terraform), unit testing, data pipelining (Airflow), and data visualisation (Streamlit). I also have experience presenting the business impact of technical solutions to non-technical stakeholders. 
+📊 I've enjoyed the challenge of navigating a large object-oriented codebase and have gained exposure to cloud computing (AWS), CI/CD (Git, Docker, Jenkins, Terraform), unit testing, data pipelining (Airflow), and data visualisation (Streamlit). My role also involves presenting the business impact of technical solutions to non-technical stakeholders. 
 
 🔧 **Skills**:
 
