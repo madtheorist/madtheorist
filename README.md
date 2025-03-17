@@ -6,6 +6,13 @@
 
 📊 I've enjoyed the challenge of navigating a large object-oriented codebase and have gained exposure to cloud computing (AWS), CI/CD (Git, Docker, Jenkins, Terraform), unit testing, data pipelining (Airflow), and data visualisation (Streamlit). My role also involves presenting the business impact of technical solutions to non-technical stakeholders. 
 
+📈 **Recent projects**:
+
+- [Credit fraud transaction API](https://github.com/madtheorist/credit-fraud-api): I created an API endpoint that serves makes predictions on whether a credit card transaction is fraudulent or not based on a small set of features. I did this to refresh my knowledge of classifiers and to learn more about preparing a machine learning model for deployment using Docker and FastAPI.
+- [Quark engine](https://github.com/madtheorist/quark): a simple chess engine that I built to learn about search trees and object-oriented design patterns.
+- [Predicting rainfall patterns using sea surface temperature data](https://github.com/madtheorist/mphys): My master's project on predicting rainfall patterns using global sea surface temperature data, leveraging linear regression and CNNs.
+- [Battery lifetime estimation](https://github.com/natskiu/Nasa-Battery): A summer internship project that I completedin 2021 at the University of Hong Kong focused on using machine learning to estimate lithium ion battery lifetimes. I worked on this in conjunction with another intern, Venus Lee. This was my first foray into data science.
+
 🔧 **Skills**:
 
 - **Languages**: 
