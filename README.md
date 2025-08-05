@@ -4,7 +4,7 @@
 
 👨‍💻 At Deloitte, I developed route optimisation software for a large telco client. My work mainly consisted of writing code in Python and SQL to represent the client's infrastructure and costing data into a weighted graph, applying a shortest-path algorithm to determine optimal fibre routes. I learned a lot about network analysis, geospatial analytics, and clustering.
 
-📊 I have experience with object oriented programming, unit testingm, cloud computing (AWS), CI/CD (Git, Docker, Jenkins, Terraform), data pipelining (Airflow), and data visualisation (Streamlit). I'm also comfortable with presenting the business impact of technical solutions to non-technical stakeholders. 
+📊 I have experience with object oriented programming, unit testing, cloud computing (AWS), CI/CD (Git, Docker, Jenkins, Terraform), data pipelining (Airflow), and data visualisation (Streamlit). I'm also comfortable with presenting the business impact of technical solutions to non-technical stakeholders. 
 
 📈 **Recent projects**:
 
