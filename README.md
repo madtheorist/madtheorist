@@ -1,10 +1,10 @@
 ## 👋 Hi there! I'm Jesse :)
 
-💼 I'm a data science consultant at Deloitte UK. Prior to this, I studied for an integrated master's degree in physics at Oxford University, graduating with first class honours in 2023.
+💼 I'm a data scientist based in London. I currently work at [Abound](https://www.getabound.com/about-us), a growing fintech company in the consumer lending space. Prior to this, I worked as a data science consultant at Deloitte. I hold an integrated master's degree in physics from Oxford University, graduating with first class honours in 2023.
 
-👨‍💻 Over the last couple of years, I've been developing route optimisation software for a large telco client. My work mainly consists of writing code in Python and SQL to turn the client's infrastructure and costing data into a weighted graph, applying a shortest-path algorithm to determine optimal fibre routes. In the process, I've learned a lot about network analysis, geospatial analytics, and clustering.
+👨‍💻 At Deloitte, I developed route optimisation software for a large telco client. My work mainly consisted of writing code in Python and SQL to represent the client's infrastructure and costing data into a weighted graph, applying a shortest-path algorithm to determine optimal fibre routes. I learned a lot about network analysis, geospatial analytics, and clustering.
 
-📊 I've enjoyed the challenge of navigating a large object-oriented codebase and have gained exposure to cloud computing (AWS), CI/CD (Git, Docker, Jenkins, Terraform), unit testing, data pipelining (Airflow), and data visualisation (Streamlit). My role also involves presenting the business impact of technical solutions to non-technical stakeholders. 
+📊 I have experience with object oriented programming, unit testingm, cloud computing (AWS), CI/CD (Git, Docker, Jenkins, Terraform), data pipelining (Airflow), and data visualisation (Streamlit). I'm also comfortable with presenting the business impact of technical solutions to non-technical stakeholders. 
 
 📈 **Recent projects**:
 
