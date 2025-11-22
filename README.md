@@ -2,17 +2,6 @@
 
 💼 I'm a data scientist based in London. I currently work at [Abound](https://www.getabound.com/about-us), a growing fintech company in the consumer lending space. Prior to this, I worked as a data science consultant at Deloitte. I hold an integrated master's degree in physics from Oxford University, graduating with first class honours in 2023.
 
-👨‍💻 At Deloitte, I developed route optimisation software for a large telco client. My work mainly consisted of writing code in Python and SQL to represent the client's infrastructure and costing data as a weighted graph, applying a shortest-path algorithm to determine optimal fibre routes. In the process, I learned a lot about network analysis, geospatial analytics, and clustering.
-
-📊 I have experience with object oriented programming, unit testing, cloud computing (AWS), CI/CD (Git, Docker, Jenkins, Terraform), data pipelining (Airflow), and data visualisation (Streamlit). I'm also comfortable with presenting the business impact of technical solutions to non-technical stakeholders. 
-
-📈 **Recent projects**:
-
-- [Credit fraud transaction API](https://github.com/madtheorist/credit-fraud-api): I created an API endpoint that serves predictions on whether a credit card transaction is fraudulent or not given small set of input features. I did this primarily to refresh my knowledge of classifiers, and to learn more about preparing a machine learning model for deployment using Docker and FastAPI.
-- [Quark engine](https://github.com/madtheorist/quark): a simple chess engine that I built to learn about search trees and object-oriented design patterns.
-- [Predicting rainfall patterns using sea surface temperature data](https://github.com/madtheorist/mphys): My master's project on predicting rainfall patterns using global sea surface temperature data, leveraging linear regression and convolutional neural nets.
-- [Battery lifetime estimation](https://github.com/natskiu/Nasa-Battery): A summer internship project that I completed together with another intern in 2021 at the University of Hong Kong focused on using machine learning to estimate lithium ion battery lifetimes. Most of this work involved engineering features from a messy set of voltage discharging curves.  This was my first foray into data science.
-
 🔧 **Skills**:
 
 - **Languages**: 
