@@ -1,8 +1,8 @@
 ## 👋 Hi there! I'm Jesse :)
 
-💼 I'm a data scientist based in London. I currently work at [Abound](https://www.getabound.com/about-us), a growing fintech company in the consumer lending space. Prior to this, I worked as a data science consultant at Deloitte. I hold an integrated master's degree in physics from Oxford University, graduating with first class honours in 2023.
+I'm a data scientist based in London. I currently work at [Abound](https://www.getabound.com/about-us), a growing fintech company in the consumer lending space. Prior to this, I worked as a data science consultant at Deloitte. I hold an integrated master's degree in physics from Oxford University, graduating with first class honours in 2023.
 
-🔧 **Skills**:
+**Skills**:
 
 - **Languages**: 
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
