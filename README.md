@@ -1,6 +1,6 @@
 ## 👋 Hi there! I'm Jesse :)
 
-I'm a data scientist based in London. I currently work at [Abound](https://www.getabound.com/about-us), a growing fintech company in the consumer lending space, where I develop software for credit risk modelling and pricing. Prior to this, I worked as a data science consultant at Deloitte, building route optimisation software for a telecoms client. I hold an integrated master's degree in physics from Oxford University, graduating with first class honours in 2023.
+I'm a data scientist based in London. I currently work at [Abound](https://www.getabound.com/about-us), a growing fintech company in the consumer lending space, where I develop software for credit decisioning and pricing. Prior to this, I worked as a data science consultant at Deloitte, building route optimisation software for a telecoms client. I hold an integrated master's degree in physics from Oxford University, graduating with first class honours in 2023.
 
 You can also find me on [LinkedIn](https://www.linkedin.com/in/jesse-xijia-wang).
 
