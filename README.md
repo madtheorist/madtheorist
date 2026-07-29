@@ -1,6 +1,10 @@
 ## 👋 Hi there! I'm Jesse :)
 
-I'm a data scientist based in London with three years of professional experience. I currently work at [Abound](https://www.getabound.com/about-us), a growing fintech company in the consumer lending space, where I develop software for credit decisioning and pricing. Prior to this, I worked as a data science consultant building route optimisation software for a telecoms client. I hold an integrated master's degree in physics from Oxford University, graduating with first class honours in 2023.
+I'm a data scientist based in London with three years of experience across fintech and consulting. 
+
+I currently work at [Abound](https://www.getabound.com/about-us), a growing fintech company in the consumer lending space, where I develop software for credit decisioning and pricing. I primarily use Python to build client-facing backend services and machine learning solutions.
+
+I graduated from the University of Oxford in 2023 with a first-class master's degree in physics.
 
 You can also find me on [LinkedIn](https://www.linkedin.com/in/jesse-xijia-wang).
 
@@ -9,7 +13,6 @@ You can also find me on [LinkedIn](https://www.linkedin.com/in/jesse-xijia-wang)
 - **Languages**: 
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
   ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white)
-  ![Postgres](https://img.shields.io/badge/postgresql-4169e1?style=flat&logo=postgresql&logoColor=white)
 
 - **Data Science & ML**:
   ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
