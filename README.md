@@ -1,6 +1,6 @@
 ## 👋 Hi there! I'm Jesse :)
 
-I'm a data scientist based in London with three years of experience across fintech and consulting. 
+I'm a data scientist based in London with three years of experience across fintech and technical consulting. 
 
 I currently work at [Abound](https://www.getabound.com/about-us), a growing fintech company in the consumer lending space, where I develop software for credit decisioning and pricing. I primarily use Python to build client-facing backend services and machine learning solutions.
 
